@@ -1,0 +1,14 @@
+Date of admission: 29/07/2024 20:14:09
+Name : sagar reddy
+Address : chennai
+Contact Number : 73738233723
+Age : 21
+Sex : male
+Blood Group : o
+Any Major disease suffered earlier : love
+Patient ID : 55
+
+********************************************************************
+
+
+Total Bill:8900.0
